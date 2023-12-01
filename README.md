@@ -7,3 +7,6 @@ How to run project:
 3. Set up a MongoDB database
 4. Install the necessary dependencies
 5. Connecy database and start the server
+
+# Snapshots of Project
+![Uploading image.png…]()
