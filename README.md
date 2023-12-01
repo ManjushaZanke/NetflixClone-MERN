@@ -1,4 +1,4 @@
-# NetflixClone-MERN
+# Netflix Clone
 Clone of the Netflix website using MERN Stack - MongoDB, ExpressJs, ReactJS, Node.js 
 
 How to run project:
@@ -6,7 +6,5 @@ How to run project:
 2. Create a new React app
 3. Set up a MongoDB database
 4. Install the necessary dependencies
-5. Connecy database and start the server
+5. Connect database and start the server
 
-# Snapshots of Project
-![Uploading image.png…]()
